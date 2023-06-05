@@ -1,2 +1,29 @@
-# criando-api-com-fastify
-Criando API RESTful com o Fastify
+<!-- :heavy_check_mark: -->
+<!-- :construction: -->
+
+# Criando API RESTful com o Fastify
+
+<!-- > **_Status:_** Finalizado :heavy_check_mark: -->
+
+> **_Status:_** Em andamento :construction:
+
+## Descrição
+
+Repositório utilizado para estudar o curso Ignite - NodeJS da Rocketseat.
+
+## Onde foi estudado ? :scroll:
+
+- https://www.rocketseat.com.br/ignite
+
+## Tecnologias utilizadas
+
+- Fastify
+-
+
+## Autor
+
+:star: By **_Luiz Silveira_** :star:
+
+### Contato:
+
+![Linkedin Badge](https://img.shields.io/badge/-Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-silveira-front-end/) [![Outlook Badge](https://img.shields.io/badge/-l.filiphis@hotmail.com-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:l.filiphis@hotmail.com)](mailto:l.filiphis@hotmail)
